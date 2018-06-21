@@ -7,4 +7,5 @@ This implementation is based on Bellman-Ford Algorithm that calculate shortest p
 
 ### Compilation Instruction:
 javac *.java
+
 java Project3
